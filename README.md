@@ -1,1 +1,3 @@
-# Sperimentazioni_Fisica_2_public
+# Sperimentazioni di Fisica 2 - Repository relazioni
+## Università degli Studi di Padova
+
