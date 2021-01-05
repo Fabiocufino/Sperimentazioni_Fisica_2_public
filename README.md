@@ -20,5 +20,5 @@ Sono disponibili nelle rispettive cartelle i codici sorgente dei programmi utili
 
 ### Relazione 3 - Reticolo a Diffrazione
 
-Tutte le risorse riguardanti la prima relazione si trovano all'interno della cartella [Relazione 3 - Reticolo a Reticolo](https://github.com/Fabiocufino/Sperimentazioni_Fisica_2_public/tree/main/Relazione%203-%20Spettrometro%20a%20Reticolo)
+Tutte le risorse riguardanti la prima relazione si trovano all'interno della cartella [Relazione 3 - Spettrometro a Reticolo](https://github.com/Fabiocufino/Sperimentazioni_Fisica_2_public/tree/main/Relazione%203-%20Spettrometro%20a%20Reticolo)
 Sono disponibili nelle rispettive cartelle i codici sorgente dei programmi utilizati e le misure eseguite in laboratorio
