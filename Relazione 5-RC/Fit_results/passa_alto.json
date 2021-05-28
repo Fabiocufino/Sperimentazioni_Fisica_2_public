@@ -1,0 +1,24 @@
+{
+    "a": [
+        5.923469634686208
+    ],
+    "a-b covariance": 0.0,
+    "b": [],
+    "b-c covariance": 0.0,
+    "c": [],
+    "c-a covariance": 0.0,
+    "chi_square": [
+        69.14401280946319
+    ],
+    "dof": [
+        24.0
+    ],
+    "err_a": [
+        0.047933201669140044
+    ],
+    "err_b": [],
+    "err_c": [],
+    "pearson": [],
+    "sigma_post": [],
+    "t_student": []
+}
