@@ -28,3 +28,8 @@ Sono disponibili nelle rispettive cartelle i codici sorgente dei programmi utili
 
 Tutte le risorse riguardanti la prima relazione si trovano all'interno della cartella [Relazione 5 - Analisi RC](https://github.com/Fabiocufino/Sperimentazioni_Fisica_2_public/tree/main/Relazione%205-RC)
 Sono disponibili nelle rispettive cartelle i codici sorgente dei programmi utilizati e le misure eseguite in laboratorio
+
+### Relazione 6 - Analisi in RLC
+
+Tutte le risorse riguardanti la prima relazione si trovano all'interno della cartella [Relazione 6 - Analisi RLC](https://github.com/Fabiocufino/Sperimentazioni_Fisica_2_public/tree/main/Relazione%206%20-%20RLC)
+Sono disponibili nelle rispettive cartelle i codici sorgente dei programmi utilizati e le misure eseguite in laboratorio
